@@ -1,4 +1,4 @@
-# 🌍 Global Weather Intelligence
+# 🌦️ Global Weather Intelligence
 ### ⚡ End-to-End Real-Time Weather Data Engineering Pipeline
 
 An end-to-end real-time weather data engineering project that collects weather data from multiple cities, streams it through Apache Kafka, processes it using Apache Spark Structured Streaming, and stores the processed data in Snowflake for business intelligence and analytics.
