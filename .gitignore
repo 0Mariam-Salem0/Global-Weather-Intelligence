@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+config/*.env
+!config/*.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Spark checkpoints and logs
+checkpoints/
+spark-warehouse/
+*.log
+
+# Private keys and credentials
+secrets/
+
+# Backup and temporary files
+*.backup
+*.before_merge
+*.bak
+*.old
