@@ -26,3 +26,19 @@ secrets/
 *.before_merge
 *.bak
 *.old
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Private key files
+*.pem
+*.p8
+*.key
+
+# Temporary files
+*.tmp
+*.swp
+*~
+Global-Weather-Intelligence/
